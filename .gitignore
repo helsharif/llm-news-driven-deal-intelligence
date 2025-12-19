@@ -30,6 +30,7 @@ pip-log.txt
 ~$Notes.docx
 Notes.docx
 curl_create_github_repo.txt
+dealsignal_scout_crewai_poc_clean.txt
 
 # Ignore Windows shortcut files
 *.lnk
