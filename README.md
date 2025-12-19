@@ -3,8 +3,8 @@
 *CrewAI + Large Language Models*
 
 > Autonomous AI agents that monitor news, detect deal signals, score relevance, and produce structured, actionable intelligence.
->
-> <img width="2000" height="1037" alt="image" src="https://github.com/user-attachments/assets/137f3d1d-60cf-4597-909e-1dc80246eb8c" />
+
+<img width="2000" height="1037" alt="image" src="https://github.com/user-attachments/assets/137f3d1d-60cf-4597-909e-1dc80246eb8c" />
 
 
 ---
