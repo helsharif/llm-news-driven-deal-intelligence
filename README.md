@@ -4,7 +4,7 @@
 
 > Autonomous AI agents that monitor news, detect deal signals, score relevance, and produce structured, actionable intelligence.
 
-<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/a3a9fe49-95ef-4814-a73d-13ddad80ff20" />
+<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/13caaf41-1069-4ee9-b044-049bad7ec45a" />
 
 
 ---
