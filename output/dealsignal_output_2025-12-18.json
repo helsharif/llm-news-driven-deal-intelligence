@@ -1,0 +1,170 @@
+[
+  {
+    "item_id": "fbae8afdb8e5551cd9e88155",
+    "source": "rss",
+    "source_name": "https://techcrunch.com/feed/",
+    "title": "TikTok agrees to deal to cede control of US business to American investor group",
+    "url": "https://techcrunch.com/2025/12/18/tiktok-agrees-to-deal-to-cede-control-of-u-s-business-to-american-investor-group/",
+    "published": "Fri, 19 Dec 2025 00:56:44 +0000",
+    "content": "The deal closes a long-running drama in which U.S. authorities have sought to compel ByteDance to divest.",
+    "fetched_at": "2025-12-19T01:58:27.422379",
+    "run_label": "2025-12-18",
+    "signal_type": "M&A",
+    "relevance_score": 0.9,
+    "tags": [
+      "M&A",
+      "TikTok",
+      "ByteDance",
+      "US business"
+    ],
+    "rationale": "TikTok's agreement to cede control of its US business to an American investor group is a significant merger and acquisition signal, indicating a major shift in ownership and regulatory compliance.",
+    "llm_summary": "TikTok agrees to divest control of its US operations.\nThe deal resolves ongoing regulatory pressures from US authorities.\nThis marks a pivotal change in TikTok's operational strategy in the US."
+  },
+  {
+    "item_id": "1c4920c1442f0ef2b84053ec",
+    "source": "rss",
+    "source_name": "https://techcrunch.com/feed/",
+    "title": "Instacart to pay $60M to settle FTC claims it deceived consumers",
+    "url": "https://techcrunch.com/2025/12/18/instacart-to-pay-60m-to-settle-ftc-claims-it-deceived-consumers/",
+    "published": "Thu, 18 Dec 2025 21:07:25 +0000",
+    "content": "The federal agency alleged Instacart misled consumers with unlawful tactics, causing them to pay higher fees while also denying refunds.",
+    "fetched_at": "2025-12-19T01:58:27.422398",
+    "run_label": "2025-12-18",
+    "signal_type": "Regulatory",
+    "relevance_score": 0.7,
+    "tags": [
+      "Regulatory",
+      "FTC",
+      "Instacart",
+      "settlement"
+    ],
+    "rationale": "Instacart's $60M settlement with the FTC for deceptive practices highlights regulatory scrutiny in the tech industry, which could impact its operational practices and consumer trust.",
+    "llm_summary": "Instacart to pay $60M to settle FTC claims.\nAllegations include misleading consumers and unlawful tactics.\nThe settlement may affect Instacart's reputation and operations."
+  },
+  {
+    "item_id": "82fcc152779a6b76638d1ef7",
+    "source": "rss",
+    "source_name": "https://techcrunch.com/feed/",
+    "title": "Trump Media is merging with fusion power company TAE Technologies in $6B+ deal",
+    "url": "https://techcrunch.com/2025/12/18/trump-media-is-merging-with-fusion-power-company-tae-technologies-in-6b-deal/",
+    "published": "Thu, 18 Dec 2025 17:05:00 +0000",
+    "content": "The merger would broaden Trump Media’s holdings into the nascent fusion power space while data centers clamor for more electricity amid the ongoing AI boom.",
+    "fetched_at": "2025-12-19T01:58:27.422435",
+    "run_label": "2025-12-18",
+    "signal_type": "M&A",
+    "relevance_score": 0.8,
+    "tags": [
+      "M&A",
+      "Trump Media",
+      "TAE Technologies",
+      "fusion power"
+    ],
+    "rationale": "The merger between Trump Media and TAE Technologies represents a strategic expansion into the fusion power sector, indicating a significant investment in emerging technologies.",
+    "llm_summary": "Trump Media is merging with TAE Technologies in a $6B deal.\nThe merger aims to expand into the fusion power industry.\nThis move aligns with increasing demand for energy solutions."
+  },
+  {
+    "item_id": "c5e23e7c70666a3556a1ed01",
+    "source": "rss",
+    "source_name": "https://techcrunch.com/feed/",
+    "title": "TDK Ventures, Accel set to back India’s EtherealX in reusable launch vehicle push: Sources",
+    "url": "https://techcrunch.com/2025/12/18/tdk-ventures-accel-set-to-back-indias-etherealx-in-reusable-launch-vehicle-push-sources/",
+    "published": "Thu, 18 Dec 2025 16:30:00 +0000",
+    "content": "EtherealX aims to take on SpaceX's Falcon 9 with its fully reusable rocket.",
+    "fetched_at": "2025-12-19T01:58:27.422439",
+    "run_label": "2025-12-18",
+    "signal_type": "Funding",
+    "relevance_score": 0.6,
+    "tags": [
+      "Funding",
+      "EtherealX",
+      "space",
+      "launch vehicle"
+    ],
+    "rationale": "EtherealX's push for reusable launch vehicles backed by TDK Ventures and Accel indicates strong investor confidence in the space sector, though the signal is not yet fully actionable.",
+    "llm_summary": "EtherealX aims to compete with SpaceX's Falcon 9.\nFunding from TDK Ventures and Accel supports its mission.\nThe focus is on developing reusable rocket technology."
+  },
+  {
+    "item_id": "ad3a956c67bd2d66c9ce87a8",
+    "source": "rss",
+    "source_name": "https://techcrunch.com/feed/",
+    "title": "Tech provider for NHS England confirms data breach",
+    "url": "https://techcrunch.com/2025/12/18/tech-provider-for-nhs-england-confirms-data-breach/",
+    "published": "Thu, 18 Dec 2025 16:09:34 +0000",
+    "content": "U.K.-based healthcare tech provider DXS International said it discovered and contained a data breach on Sunday. A ransomware gang took credit for the breach.",
+    "fetched_at": "2025-12-19T01:58:27.422443",
+    "run_label": "2025-12-18",
+    "signal_type": "Distress",
+    "relevance_score": 0.7,
+    "tags": [
+      "Distress",
+      "data breach",
+      "NHS",
+      "healthcare"
+    ],
+    "rationale": "The confirmation of a data breach by a tech provider for NHS England raises concerns about cybersecurity and operational integrity in the healthcare sector.",
+    "llm_summary": "DXS International confirmed a data breach affecting NHS.\nA ransomware gang claimed responsibility for the breach.\nThis incident highlights vulnerabilities in healthcare tech."
+  },
+  {
+    "item_id": "ac8ab140a29611bfda5989aa",
+    "source": "rss",
+    "source_name": "https://www.prnewswire.com/rss/news-releases-list.rss",
+    "title": "Kodiak Sciences Announces Closing of $184 Million Public Offering of Common Stock including Full Exercise of Underwriters' Option to Purchase Additional Shares",
+    "url": "https://www.prnewswire.com/news-releases/kodiak-sciences-announces-closing-of-184-million-public-offering-of-common-stock-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-302646525.html",
+    "published": "Fri, 19 Dec 2025 01:26:00 +0000",
+    "content": "<p>PALO ALTO, Calif., Dec. 18, 2025 /PRNewswire/ -- Kodiak Sciences Inc. (Nasdaq: KOD), a precommercial retina focused biotechnology company committed to researching, developing and commercializing transformative therapeutics, today announced the closing of its previously announced...</p>",
+    "fetched_at": "2025-12-19T01:58:27.635377",
+    "run_label": "2025-12-18",
+    "signal_type": "Funding",
+    "relevance_score": 0.8,
+    "tags": [
+      "Funding",
+      "Kodiak Sciences",
+      "public offering",
+      "biotechnology"
+    ],
+    "rationale": "Kodiak Sciences' successful $184 million public offering indicates strong market confidence and funding for its biotechnology initiatives, making it a strong actionable signal.",
+    "llm_summary": "Kodiak Sciences closed a $184 million public offering.\nThe offering included the full exercise of underwriters' options.\nThis funding supports its focus on retina therapeutics."
+  },
+  {
+    "item_id": "9f502c5a52e63a6f2841f08a",
+    "source": "rss",
+    "source_name": "https://www.prnewswire.com/rss/news-releases-list.rss",
+    "title": "NEW DRUG APPLICATION FOR TINENGOTINIB TABLETS ACCEPTED BY THE NATIONAL MEDICAL PRODUCTS ADMINISTRATION",
+    "url": "https://www.prnewswire.com/news-releases/new-drug-application-for-tinengotinib-tablets-accepted-by-the-national-medical-products-administration-302646531.html",
+    "published": "Fri, 19 Dec 2025 01:46:00 +0000",
+    "content": "<p>NANJING, China and GAITHERSBURG, Md., Dec. 18, 2025 /PRNewswire/ -- TransThera Sciences Nanjing, Inc. (the \"TransThera\") announced that the new drug application for Tinengotinib tablets has been accepted by the Center for Drug Evaluation (\"CDE\")of the National Medical Products...</p>",
+    "fetched_at": "2025-12-19T01:58:27.635366",
+    "run_label": "2025-12-18",
+    "signal_type": "Regulatory",
+    "relevance_score": 0.5,
+    "tags": [
+      "Regulatory",
+      "Coupang",
+      "class action",
+      "securities"
+    ],
+    "rationale": "The class action lawsuit against Coupang indicates potential regulatory challenges and investor concerns, but the impact remains to be fully assessed.",
+    "llm_summary": "A class action was filed against Coupang, Inc. securities.\nThe lawsuit involves investors from April to December 2025.\nThis could affect Coupang's market perception and operations."
+  },
+  {
+    "item_id": "05177ce8030f827c17308a22",
+    "source": "rss",
+    "source_name": "https://www.prnewswire.com/rss/news-releases-list.rss",
+    "title": "MetaMetrics Partners with Blue Heron Global to Expand Access to Lexile Measures Across China",
+    "url": "https://www.prnewswire.com/news-releases/metametrics-partners-with-blue-heron-global-to-expand-access-to-lexile-measures-across-china-302646477.html",
+    "published": "Fri, 19 Dec 2025 01:18:00 +0000",
+    "content": "<p>New agreements will bring Lexile reading measures to hundreds of thousands of Chinese students learning English DURHAM, N.C. and SHANGHAI, Dec. 18, 2025 /PRNewswire/ -- MetaMetrics®, the developer of the Lexile® Framework for Reading, and Blue Heron Global, a leading provider of corporate...</p>",
+    "fetched_at": "2025-12-19T01:58:27.635384",
+    "run_label": "2025-12-18",
+    "signal_type": "Partnership",
+    "relevance_score": 0.6,
+    "tags": [
+      "Partnership",
+      "MetaMetrics",
+      "Blue Heron",
+      "education"
+    ],
+    "rationale": "MetaMetrics' partnership with Blue Heron Global to expand access to Lexile measures in China indicates a strategic move in educational technology, though its immediate impact is moderate.",
+    "llm_summary": "MetaMetrics partners with Blue Heron Global for education.\nThe goal is to expand Lexile measures in China.\nThis partnership targets English learning for students."
+  }
+]

@@ -1,0 +1,35 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+# Python specific files
+# Byte-code files
+*.pyc
+__pycache__/
+*~
+
+# IDE specific files and temporary files
+.DS_Store # macOS specific
+.vscode/ # VS Code
+.idea/ # PyCharm
+.cache/
+.pytest_cache/
+htmlcov/
+.tox/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Sensitive data/secrets (adjust as needed)
+.env
+*.log
+pip-log.txt
+~$Notes.docx
+Notes.docx
+curl_create_github_repo.txt
+
+# Ignore Windows shortcut files
+*.lnk

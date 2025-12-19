@@ -1,0 +1,21 @@
+[2023-10-04] DealSignal Scout Summary  
+High Confidence Signals: 5  
+1) TikTok agrees to divest control of its US operations — M&A (0.9)  
+   Reason: TikTok's agreement to cede control of its US business to an American investor group is a significant merger and acquisition signal, indicating a major shift in ownership and regulatory compliance.  
+   URL: <https://example.com/tiktok-divestment>  
+
+2) Kodiak Sciences closed a $184 million public offering — Funding (0.8)  
+   Reason: Kodiak Sciences' successful $184 million public offering indicates strong market confidence and funding for its biotechnology initiatives, making it a strong actionable signal.  
+   URL: <https://example.com/kodiak-public-offering>  
+
+3) Trump Media is merging with TAE Technologies in a $6B deal — M&A (0.8)  
+   Reason: The merger between Trump Media and TAE Technologies represents a strategic expansion into the fusion power sector, indicating a significant investment in emerging technologies.  
+   URL: <https://example.com/trump-media-merger>  
+
+4) Instacart to pay $60M to settle FTC claims — Regulatory (0.7)  
+   Reason: Instacart's $60M settlement with the FTC for deceptive practices highlights regulatory scrutiny in the tech industry, which could impact its operational practices and consumer trust.  
+   URL: <https://example.com/instacart-ftc-settlement>  
+
+5) DXS International confirmed a data breach affecting NHS — Distress (0.7)  
+   Reason: The confirmation of a data breach by a tech provider for NHS England raises concerns about cybersecurity and operational integrity in the healthcare sector.  
+   URL: <https://example.com/nhs-data-breach>
