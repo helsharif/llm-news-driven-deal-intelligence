@@ -34,3 +34,6 @@ dealsignal_scout_crewai_poc_clean.txt
 
 # Ignore Windows shortcut files
 *.lnk
+
+# ignore misc folder
+misc/
